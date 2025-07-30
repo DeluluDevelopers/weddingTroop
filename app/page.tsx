@@ -749,7 +749,7 @@ ${name || "Potential Client"}`
                 href='tel:+917252841730'
                 className='hover:text-rose-400 transition-colors'
               >
-                +917252841731
+                +917252841730
               </a>
             </div>
           </div>
