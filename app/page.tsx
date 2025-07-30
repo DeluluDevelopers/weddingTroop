@@ -455,15 +455,15 @@ ${name || "Potential Client"}`
               {[
                 {
                   id: 1,
-                  image: "/first_video_image.jpg",
-                  link: "https://www.instagram.com/p/C_uyn94hghY/?img_index=1",
-                  embedUrl: "https://www.instagram.com/p/C_uyn94hghY/embed/",
+                  image: "/first_video_image.jpeg",
+                  link: "https://www.instagram.com/p/Cnr3i9SBJHN/?img_index=1",
+                  embedUrl: "https://www.instagram.com/p/Cnr3i9SBJHN/embed/",
                 },
                 {
                   id: 2,
                   image: "/second_video_image.jpg",
-                  link: "https://www.instagram.com/weddingtroop/reel/CwkBnLwRxJT/",
-                  embedUrl: "https://www.instagram.com/reel/CwkBnLwRxJT/embed/",
+                  link: "https://www.instagram.com/p/DMnZDY7zsvp/",
+                  embedUrl: "https://www.instagram.com/p/DMnZDY7zsvp/embed/",
                 },
                 {
                   id: 3,
