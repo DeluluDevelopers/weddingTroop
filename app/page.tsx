@@ -26,7 +26,7 @@ const stories = [
     subtitle: "The backyard love affair",
     description:
       "Every wedding that we shoot fills our heart in all the most unique ways. We were at Alibaug, for Nandini and Sahil Intimate signing ceremony in their own backyard...",
-    image: "/third.jpg",
+    image: "/third.jpeg",
   },
   {
     id: 4,
@@ -34,7 +34,7 @@ const stories = [
     subtitle: "Cosmopolitan bliss in Cappadocia",
     description:
       "Milly & Yunus is a different kind of story. It just happened by chance. We went to Turkey on a private gig but decided to stay back for a few more days in Cappadocia...",
-    image: "/fourth.jpg",
+    image: "/fourth.jpeg",
   },
 ];
 
@@ -357,12 +357,11 @@ ${name || "Potential Client"}`
         >
           <div className='max-w-3xl mx-auto text-center relative z-10'>
             <h2 className='text-2xl xs:text-3xl sm:text-4xl md:text-5xl font-premium text-rose-900 mb-4 md:mb-6 whitespace-pre-line leading-tight'>
-              WE DON&apos;T JUST CAPTURE
+              WE BELIEVE
               <br />
-              WEDDINGS
             </h2>
             <span className='block text-center text-lg xs:text-xl md:text-4xl font-premium text-rose-900 mb-4 md:mb-6'>
-              — WE LIVE THEM WITH YOU —
+              — YOUR VISION IS REAL —
             </span>
             <div className='flex justify-center mb-2 md:mb-4'>
               <Image
