@@ -1,0 +1,5 @@
+---
+description:Make sure you follow eslint rules
+globs:
+alwaysApply: true
+---
